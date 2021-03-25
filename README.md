@@ -44,4 +44,4 @@ Após a pesquisa com o formulário formulamos uma protopersona e 4 personas de p
 
 ![alt text](src/img/mockup.JPG)
 
-### Desenvolvido por:[Ana Beatriz](https://github.com/biacostadev),[Gabriella Guimarães](https://github.com/gabriella-guimaraes),[Gabrielle Almeida],[Karina](https://github.com/karina1602),[Kaueny Alves](https://github.com/Kaueny-Alves)(https://github.com/GabrielleAlmeida),[Tânagra Andria](https://github.com/TanagraAndria) através do Projeto da [Laboratoria](https://www.laboratoria.la/).
+### Desenvolvido por:[Ana Beatriz](https://github.com/biacostadev),[Gabriella Guimarães](https://github.com/gabriella-guimaraes),[Gabrielle Almeida](https://github.com/GabrielleAlmeida),[Karina](https://github.com/karina1602),[Kaueny Alves](https://github.com/Kaueny-Alves),[Tânagra Andria](https://github.com/TanagraAndria) através do Projeto da [Laboratoria](https://www.laboratoria.la/).
