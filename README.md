@@ -12,14 +12,13 @@
 - [6. Protótipos](#6-protótipos)
 - [7. Ferramentas e Tecnologias](#8-ferramentas-e-tecnologias)
 - [8. Primeiros passos](#3-primeiros-passos)
-- [9. Autoria](#-desenvolvido-por)
 
 ---
 
 ## 1. Introdução
 
-Esse projeto foi proposto pela Laboratoria, com o objetivo de desenvolver um produto no ramo de entreterimento utilizando APIs.
-O Livreiro foi o produto desenvolvido durante os dois dias de Hackathon.
+Esse projeto foi proposto pela Laboratoria, com o objetivo de desenvolver um produto no ramo de entreterimento consumindo APIs.
+O Livreiro foi o produto em equipe e desenvolvido durante os dois dias de Hackathon.
 
 ## 2. Resumo do projeto
 
@@ -36,11 +35,11 @@ Um breve trecho da pesquisa desenvolvida:
 Após a pesquisa com o formulário formulamos uma protopersona e 4 personas de possíveis usuários:
 ![alt text](src/img/personas-livreiro.jpg)
 
-### 5.Funcionalidades
-- Atendimento Personalizado
-- Pesquisar por autor, nome do livro, editora e ISBM
-- Verificar a disponibilidade dos livros desejados
-- Localizar o setor no qual se encontra o livro
+### 5. Funcionalidades
+- Atendimento Personalizado,
+- Pesquisar por autor, nome do livro, editora e ISBM,
+- Verificar a disponibilidade dos livros desejados,
+- Localizar o setor no qual se encontra o livro.
 
 ### 6. Protótipos
 
