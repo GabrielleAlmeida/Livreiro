@@ -12,7 +12,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#instalação">Instalação</a> •
  <a href="#processo-de-desenvolvimento">Processo de Desenvolvimento</a> •
- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias</a> • 
  <a href="#features">Features</a> • 
  <a href="#créditos">Créditos</a>
 </p>
@@ -28,15 +28,15 @@ Fazendo uma pesquisa voltada ao mercado de livros, mapeamos um problema em comum
 O assistente virtual **Livreiro** é uma aplicação que fornece aos clientes da livraria um atendimento rápido e personalizado, com poucos cliques o usuário acessa as informações sobre o livro desejado, tais como: autor,editora,título, valor do livro e uma breve sinopse. 
 
 
-*Gostaríamos de ressaltar que esse projeto foi proposto pela [Laboratoria](https://www.laboratoria.la/br), om o objetivo de desenvolver um [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) no ramo de entreterimento consumindo APIs.
-o mesmo foi desenvolvido em equipe durante os dois dias de Hackathon.*
+*Gostaríamos de ressaltar que esse projeto foi proposto pela [Laboratoria](https://www.laboratoria.la/br), om o objetivo de desenvolver um [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) no ramo de entretenimento consumindo APIs.
+O mesmo foi desenvolvido em equipe durante os dois dias de Hackathon.*
 
 ---
 
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Google Books APIs](https://developers.google.com/books),para o Deploy utilizamos [Vercel](https://vercel.com/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+[Git](https://git-scm.com), [Google Books APIs](https://developers.google.com/books),para o Deploy utilizamos [Vercel](https://vercel.com/). Além disso, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 - Clone este repositório
 
@@ -62,7 +62,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 &nbsp;
 
-Para desenvolver o assitente virtual **Livreiro**, trabalhamos com a metodologia ágil SCRUM. Desenhamos nossas protopersonas e fizemos a validação das mesmas por meio de entrevistas, em seguida configuramos nossas histórias de usuário, definição de pronto e critérios de aceitação. 📋
+Para desenvolver o assistente virtual **Livreiro**, trabalhamos com a metodologia ágil SCRUM. Desenhamos nossas protopersonas e fizemos a validação das mesmas por meio de entrevistas, em seguida configuramos nossas histórias de usuário, definição de pronto e critérios de aceitação. 📋
 
 &nbsp;
 O planejamento e a organização do projeto foram desenvolvidos utilizando o método Kanban. Dividimos o trabalho em Histórias de Usuários e a estratégia de programação foi [pair programing](https://www.devmedia.com.br/implementando-pair-programming-em-sua-equipe/1694). 👩‍💻  👩‍💻 .  
