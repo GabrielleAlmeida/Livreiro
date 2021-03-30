@@ -34,7 +34,6 @@ O mesmo foi desenvolvido em equipe durante os dois dias de Hackathon.* 💪
 
 &nbsp;
 ---
-
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -63,7 +62,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 <img align='left' src='src/img/student.jpg' width='350' frameBorder="0" ></img>
 
 &nbsp;
-
 Para desenvolver o assistente virtual **Livreiro**, trabalhamos com a metodologia ágil SCRUM. Desenhamos nossas protopersonas e fizemos a validação das mesmas por meio de entrevistas, em seguida configuramos nossas histórias de usuário, definição de pronto e critérios de aceitação. 📋
 
 &nbsp;
@@ -90,8 +88,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 - <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 - <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
 - <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
 - <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> 
 - Marvel app (elaboração de protótipos de média/alta fidelidade)
 - Postman (testes com a API)
@@ -104,6 +102,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Verificar a disponibilidade do livro selecionado
 - [x] Visualizar uma breve sinopse do livro selecionado 
 - [x] Localizar o setor no qual se encontra o livro
+- [ ] Fazer *tests* unitários
 
 ---
 <h4 align="center"> 
