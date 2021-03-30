@@ -23,13 +23,15 @@
 
 <img align='right' src='./src/img/toten.jpg' width='300' frameBorder="0" ></img>
 
-Fazendo uma pesquisa voltada ao mercado de livros, mapeamos um problema em comum, no que diz respeito a experiência dos frequentadores de livrarias, que alegam  a falta  de autonomia para encontrar as informações referente ao produto que procura, e também a demora no atendimento presencial.
+Fazendo uma pesquisa voltada ao mercado de livros, mapeamos um problema em comum, no que diz respeito a experiência dos frequentadores de livrarias. Os mesmos alegam  a falta  de autonomia para encontrar informações referente ao produto que procuram e também a demora no atendimento presencial.
 
 O assistente virtual **Livreiro** é uma aplicação que fornece aos clientes da livraria um atendimento rápido e personalizado, com poucos cliques o usuário acessa as informações sobre o livro desejado, tais como: autor,editora,título, valor do livro e uma breve sinopse. 
 
 
 *Gostaríamos de ressaltar que esse projeto foi proposto pela [Laboratoria](https://www.laboratoria.la/br), om o objetivo de desenvolver um [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) no ramo de entretenimento consumindo APIs.
 O mesmo foi desenvolvido em equipe durante os dois dias de Hackathon.*
+
+&nbsp;
 
 ---
 
