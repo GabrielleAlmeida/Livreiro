@@ -108,7 +108,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h4 align="center"> 
 	Status do Projeto
 	
-	🚧  Rede social [Ada] 🚀 Em construção...  🚧
+	🚧  Livreiro  🚀 Em construção...  🚧
 </h4>
 
 ---
