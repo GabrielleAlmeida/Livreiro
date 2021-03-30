@@ -12,7 +12,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#instalação">Instalação</a> •
  <a href="#processo-de-desenvolvimento">Processo de Desenvolvimento</a> •
- <a href="#tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
  <a href="#features">Features</a> • 
  <a href="#créditos">Créditos</a>
 </p>
